@@ -7,6 +7,6 @@ Conviene que hagáis enlaces a issues específicos, y que estos issues sean todo
 Para incorporar vuestro proyecto, añadid una línea con el mismo formato y haced un Pull Request; podéis incorporar todos los issues de todos los proyectos que queráis.
 
 
-| Description with link                                                              | Type                   | Additional information                                                                                                         |
+| Descripción con enlace                                                             | Tipo                   | Más info                                                                                                       |
 |------------------------------------------------------------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | [Mejorar la página de migración de Ruby a Raku](https://github.com/Raku/doc/issues/3652) | Documentación          | Conocimiento básico de Ruby y Raku, y del formato Pod6, usado en la documentación de Raku. Enlaces a tutoriales en el issue enlazado |
