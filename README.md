@@ -10,5 +10,5 @@ Para incorporar vuestro proyecto, añadid una línea con el mismo formato y hace
 | Descripción con enlace                                                             | Tipo                   | Más info                                                                                                       |
 |------------------------------------------------------------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | [Mejorar la página de migración de Ruby a Raku](https://github.com/Raku/doc/issues/3652) | Documentación          | Conocimiento básico de Ruby y Raku, y del formato Pod6, usado en la documentación de Raku. Enlaces a tutoriales en el issue enlazado |
-| [Añadir Tomcat y Nginx en el script de servicios](ttps://github.com/RafaelAybar/Bash-toolkit/issues/17) | Mejora de la app   | Se requiere un mínimo conocimiento de Nginx, Bash y Tomcat |
+| [Añadir Tomcat y Nginx en el script de servicios](https://github.com/RafaelAybar/Bash-toolkit/issues/17) | Mejora de la app   | Se requiere un mínimo conocimiento de Nginx, Bash y Tomcat |
 | [Refactorizar script de Python 3](https://github.com/RafaelAybar/qa-empleo/issues/5) | Refactorización de código  | Se requiere nivel medio en Python3 y buenas praćticas |
