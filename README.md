@@ -1,4 +1,4 @@
-# Hacktoberfest en LibreLabGRX
+# Hacktoberfest 2020 en LibreLabGRX
 
 Repositorio centralizado para proyextos en los que participe la gente del [LibreLabGRX](https://librelabgrx.cc).
 
